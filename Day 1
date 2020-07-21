@@ -1,0 +1,5 @@
+print("ASSIGNMENT-1")
+print("What is python?")
+print("Python is a widely used general-purpose programming language. It’s a great tool for data scientists for data exploration, visualization and analysis")
+print("Different ways to install python")
+print("1.Go to https://www.yhat.com/products/rodeo \n2.Go to https://www.continuum.io/downloads \n3.Go to https://www.python.org/downloads/windows/")
