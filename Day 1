@@ -1,5 +1,10 @@
-print("ASSIGNMENT-1")
+print("ASSIGNMENT-1 1st question ")
 print("What is python?")
 print("Python is a widely used general-purpose programming language. It’s a great tool for data scientists for data exploration, visualization and analysis")
 print("Different ways to install python")
 print("1.Go to https://www.yhat.com/products/rodeo \n2.Go to https://www.continuum.io/downloads \n3.Go to https://www.python.org/downloads/windows/")
+
+print("assignment-1 2nd question ")
+print("code environments in python")
+print("An environment in Python is the context in which a Python program runs. An environment consists of an interpreter and any number of installed packages. The Python extension for VS Code provides helpful integration features for working with different environments.")
+print("pycharm,jupyter etc")
